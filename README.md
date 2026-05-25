@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>外科补液导师 - 水电解质与酸碱平衡紊乱模拟器</title>
+    <外科补液导师 - 水电解质与酸碱平衡模拟器
     <style>
         * {
             box-sizing: border-box;
