@@ -1,6 +1,3 @@
-[外科补液导师-水电解质与酸碱平衡紊乱模拟器.html](https://github.com/user-attachments/files/28132654/-.html)
-# surgical-fluid-tutor-new
-外科补液导师 - 水电解质与酸碱平衡紊乱模拟器
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
